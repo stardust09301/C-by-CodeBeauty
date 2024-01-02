@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-C:\Users\jas93\Desktop\codeBeauty\GuessingGame\x64\Debug\GuessingGame.exe
-=======
-C:\Users\jas93\Desktop\codeBeauty\GuessingGame\x64\Debug\GuessingGame.exe
->>>>>>> 6eb9311faeb7ee7f70f548f6d61c1c2032da8ca4
