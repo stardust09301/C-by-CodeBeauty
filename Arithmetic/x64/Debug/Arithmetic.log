@@ -1,3 +1,0 @@
-﻿  Arithmetic.cpp
-C:\Users\jas93\Desktop\codeBeauty\Arithmeti\Arithmetic.cpp(8,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  Arithmeti.vcxproj -> C:\Users\jas93\Desktop\codeBeauty\Arithmeti\x64\Debug\Arithmeti.exe
