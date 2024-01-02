@@ -1,3 +1,0 @@
-﻿  pinDoWhileLoop.cpp
-C:\Users\jas93\Desktop\codeBeauty\DoWhileLoop\pinDoWhileLoop.cpp(8,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  DoWhileLoop.vcxproj -> C:\Users\jas93\Desktop\codeBeauty\DoWhileLoop\x64\Debug\DoWhileLoop.exe
