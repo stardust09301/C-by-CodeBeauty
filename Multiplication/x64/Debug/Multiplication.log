@@ -1,3 +1,0 @@
-﻿  Multiplication.cpp
-C:\Users\jas93\Desktop\codeBeauty\Multiplication\Multiplication.cpp(8,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  Multiplication.vcxproj -> C:\Users\jas93\Desktop\codeBeauty\Multiplication\x64\Debug\Multiplication.exe
